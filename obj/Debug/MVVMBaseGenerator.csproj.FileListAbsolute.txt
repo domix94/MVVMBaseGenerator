@@ -1,5 +1,0 @@
-D:\projects\MVVMBaseGenerator\MVVMBaseGenerator\bin\Debug\MVVMBaseGenerator.exe.config
-D:\projects\MVVMBaseGenerator\MVVMBaseGenerator\bin\Debug\MVVMBaseGenerator.exe
-D:\projects\MVVMBaseGenerator\MVVMBaseGenerator\bin\Debug\MVVMBaseGenerator.pdb
-D:\projects\MVVMBaseGenerator\MVVMBaseGenerator\obj\Debug\MVVMBaseGenerator.exe
-D:\projects\MVVMBaseGenerator\MVVMBaseGenerator\obj\Debug\MVVMBaseGenerator.pdb
